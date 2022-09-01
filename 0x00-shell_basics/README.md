@@ -1,1 +1,1 @@
-Displaying current directory content
+ creating my first directory
