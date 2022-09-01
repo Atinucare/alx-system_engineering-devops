@@ -1,1 +1,1 @@
- listing files including hidden files
+Create a script that switches the current user to the user betty
