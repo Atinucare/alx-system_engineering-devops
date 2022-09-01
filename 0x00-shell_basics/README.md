@@ -1,1 +1,1 @@
- creating my first directory
+ creating a script that creates a directory
